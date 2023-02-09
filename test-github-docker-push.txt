@@ -1,0 +1,3 @@
+this file is pushed to github to test docker and github integration.
+when this file is pushed to github dockerhub repository will pick from github and build image
+
